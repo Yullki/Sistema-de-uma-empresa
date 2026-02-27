@@ -1,2 +1,3 @@
-# Sistema-de-uma-empresa
-O objetivo deste projeto foi desenvolver um software completo para a gestão de equipamentos (vendas), faturação e gestão de funcionários. Foi implementado o Pool, e uma opção de teste de carga - ou seja, é possível verificar os segundos de várias execuções sendo feitas ao mesmo tempo por um número X de pessoas. 
+# Company-system
+The objective of this project was to develop comprehensive software for equipment management (sales), billing, and employee management. Pool was implemented, along with a load testing option—that is, it is possible to check the seconds of several executions being performed at the same time by a number X of people. 
+The project was developed in C#, in Visual Studio 2022. I used my database in MySQL Workbench 8.0 CE.
